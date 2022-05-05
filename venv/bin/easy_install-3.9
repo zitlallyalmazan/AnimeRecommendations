@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/zitallyalmazan/Desktop/SCHOOL - SPRING 2022/310 - Applied Programming/Anime_Database_Analysis/AnimeRecommendations/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from setuptools.command.easy_install import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
