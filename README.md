@@ -6,13 +6,16 @@ Here is a link for where I obtained my anime recommendations dataset:
 
 * [Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020/discussion)
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+Please watch my short presentation video below!
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+* I had trouble using Pandas in Visual Code Studio. I had installed it thinking there weren't any problems but when I would try to run it, an error kept popping up
+* After Visual Studio Code didn't work, I switched over to use Jupyter in Anaconda-Navigator but found that syncing it pretty difficult in syncing it with GitHub
+* However, I was able to start using Anaconda by creating a Hello World program
+* I hope to figure out what is happening with Pandas in Visual Studio Code but if not, I will continue to work on my project in Anaconda. I wasn't expecting for the installation of Pandas to be so difficult in figuring out
 
 # Development Environment
 
@@ -32,9 +35,9 @@ Here is a link for where I obtained my anime recommendations dataset:
 * [Jupyter notebook Hello World programming](https://www.youtube.com/watch?v=g1SV9oAOALw)
 * [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
+
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Figure out why Pandas isn't working properly in Visual Code Studio
+* Figure out why Jupyter in Anaconda isn't connecting properly with GitHub
+* Find a different spreadsheet that'll work with Jupyter in Ananconda
