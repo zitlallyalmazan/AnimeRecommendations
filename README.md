@@ -8,7 +8,7 @@ Here is a link for where I obtained my anime recommendations dataset:
 
 Please watch my short presentation video below!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Data Analysis Using Visual Studio Code and Anaconda](https://youtu.be/_pBCnLr19SE)
 
 # Data Analysis Results
 
@@ -40,4 +40,4 @@ Please watch my short presentation video below!
 
 * Figure out why Pandas isn't working properly in Visual Code Studio
 * Figure out why Jupyter in Anaconda isn't connecting properly with GitHub
-* Find a different spreadsheet that'll work with Jupyter in Ananconda
+* Find a different spreadsheet that'll work with Jupyter in Anaconda
